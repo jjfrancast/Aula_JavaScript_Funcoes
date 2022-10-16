@@ -1,0 +1,32 @@
+fuções são pequenos trechos de códigos, capazes de invocar a qualquer momento que desejar.
+
+Estrutura da Função:
+
+function "teste"(){
+  console.log('teste');
+}
+
+
+Uma vez decladara a função, é possivel referencia-la sempre que quiser, por exemplo:
+
+teste ():
+
+Existem diversas maneiras de se invocar uma função, a mais simples é refernciar o nome da função criada e abrir e fechar parenteses logo em seguida.
+teste():
+
+OBS: os parenteses são os parâmetros das funções.
+
+function sayMyName (name) {
+    console.log ('You name is" + name);
+}
+
+sayMyName('Jonas');
+
+
+
+
+
+
+
+
+
